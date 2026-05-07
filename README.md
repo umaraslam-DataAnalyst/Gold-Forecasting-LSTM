@@ -1,5 +1,5 @@
-Gold Price Forecasting Using Historical Time Series Data
-Business Problem
+# Gold Price Forecasting Using Historical Time Series Data
+## Business Problem
 Gold prices fluctuate rapidly, making short-term price movements difficult to predict.
 Traders and analysts need data-driven forecasts to support timely and informed decisions.
 This project demonstrates how historical price data can be used to forecast future gold price trends.
