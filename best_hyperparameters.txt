@@ -1,0 +1,15 @@
+Best Hyperparameters:
+==================================================
+lookback: 30
+lstm_layers: 1
+units: 128
+dropout: 0.1
+batch_size: 16
+learning_rate: 0.01
+
+Performance Metrics:
+==================================================
+Training RMSE: 9.4446
+Training MAE: 5.6853
+Test RMSE: 14.3580
+Test MAE: 9.4683
